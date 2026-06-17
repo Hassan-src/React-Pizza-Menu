@@ -1,4 +1,4 @@
-#Pizza menu project
+# Pizza menu project
 
 Used the create React App fot the creation of the project
 The project is a beginner level project including some usecase of props and some basic ternary operators
