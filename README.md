@@ -57,3 +57,10 @@ pizza-menu/
 ├── package-lock.json # 🔒 Exact dependency versions
 ├── .gitignore # 🚫 Files ignored by Git
 └── README.md # 📖 Project documentation
+
+---
+
+## 🙏 Acknowledgements
+
+Inspired by Jonas Schmedtmann's "Fast React Pizza CO." project.  
+Fonts from Google Fonts. Built with ❤️ and React.
