@@ -38,26 +38,23 @@
 
 pizza-menu/
 ├── public/
-│ ├── index.html # HTML template
-│ ├── manifest.json # Web app manifest
-│ ├── robots.txt # Search engine rules
-│ └── pizzas/ # 🍕 Pizza images
-│ ├── focaccia.jpg
-│ ├── funghi.jpg
-│ ├── margherita.jpg
-│ ├── prosciutto.jpg
-│ ├── salamino.jpg
-│ └── spinaci.jpg
-│
+│   ├── index.html                 # HTML template
+│   ├── manifest.json              # Web app manifest
+│   ├── robots.txt                 # Search engine rules
+│   └── pizzas/                    # 🍕 Pizza images
+│       ├── focaccia.jpg
+│       ├── funghi.jpg
+│       ├── margherita.jpg
+│       ├── prosciutto.jpg
+│       ├── salamino.jpg
+│       └── spinaci.jpg
 ├── src/
-│ ├── index.js # 🚀 ReactDOM entry point
-│ └── index.css # 🎨 Global styles (CSS variables & layout)
-│
-├── package.json # 📦 Dependencies and scripts
-├── package-lock.json # 🔒 Exact dependency versions
-├── .gitignore # 🚫 Files ignored by Git
-└── README.md # 📖 Project documentation
-
+│   ├── index.js                   # 🚀 ReactDOM entry point
+│   └── index.css                  # 🎨 Global styles
+├── package.json                   # 📦 Dependencies and scripts
+├── package-lock.json              # 🔒 Exact dependency versions
+├── .gitignore                     # 🚫 Files ignored by Git
+└── README.md                      # 📖 Project documentation
 ---
 
 ## 🙏 Acknowledgements
