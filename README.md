@@ -50,7 +50,7 @@ pizza-menu/
 │       └── spinaci.jpg
 ├── src/
 │   ├── index.js                   # 🚀 ReactDOM entry point
-│   └── index.css                  # 🎨 Global styles
+│   └── index.css                  # 🎨 Global styles (CSS variables & layout)
 ├── package.json                   # 📦 Dependencies and scripts
 ├── package-lock.json              # 🔒 Exact dependency versions
 ├── .gitignore                     # 🚫 Files ignored by Git
