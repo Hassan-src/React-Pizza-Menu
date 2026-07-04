@@ -36,6 +36,7 @@
 
 ## 📁 Project Structure
 
+```plaintext
 pizza-menu/
 ├── public/
 │   ├── index.html
@@ -55,6 +56,7 @@ pizza-menu/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
+```
 ---
 
 ## 🙏 Acknowledgements
